@@ -78,7 +78,7 @@ ul {
   list-style: none;
   padding: 6px 0;
   margin: 0;
-  margin-top: 15px;  
+  margin-top: 15px;
   box-sizing: border-box;
   border-radius: 4px;
   border: 1px solid #dcdfe6;
